@@ -57,7 +57,7 @@
     "sinon": "^7.3.2",
     "sinon-chai": "^3.3.0",
     "styled-components": "^4.2.0",
-    "stylelint": "^10.0.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-recommended": "^2.2.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.7.0",
